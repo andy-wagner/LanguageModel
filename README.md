@@ -1,4 +1,4 @@
-UMUT OZTURK - 21328394
+
 
 This application implements the language models such as trigram,bigram and unigram. Also the hashmap is used to store the count of each word.
 There are the hash maps for each model and  these hash maps store the count values.
